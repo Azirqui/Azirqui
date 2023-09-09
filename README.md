@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures, Object Oriented Programming and much more.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href = "https://www.linkedin.com/in/chaudhary-noman-ahmad-393764261">Connect with me:</a></h3>
 <p align="left">
 </p>
 
